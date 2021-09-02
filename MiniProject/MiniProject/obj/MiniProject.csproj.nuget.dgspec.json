@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\MiniConsoleProject\\MiniConsoleProject\\MiniConsoleProject.csproj": {}
+    "C:\\Users\\user\\source\\repos\\MiniProject\\MiniProject\\MiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\MiniConsoleProject\\MiniConsoleProject\\MiniConsoleProject.csproj": {
+    "C:\\Users\\user\\source\\repos\\MiniProject\\MiniProject\\MiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MiniConsoleProject\\MiniConsoleProject\\MiniConsoleProject.csproj",
-        "projectName": "MiniConsoleProject",
-        "projectPath": "C:\\Users\\user\\source\\repos\\MiniConsoleProject\\MiniConsoleProject\\MiniConsoleProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MiniProject\\MiniProject\\MiniProject.csproj",
+        "projectName": "MiniProject",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MiniProject\\MiniProject\\MiniProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\MiniConsoleProject\\MiniConsoleProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MiniProject\\MiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
