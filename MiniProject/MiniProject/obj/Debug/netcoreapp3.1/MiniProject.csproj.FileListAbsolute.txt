@@ -11,3 +11,16 @@ C:\Users\user\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniP
 C:\Users\user\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.dll
 C:\Users\user\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.pdb
 C:\Users\user\source\repos\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.genruntimeconfig.cache
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.exe
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.deps.json
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.runtimeconfig.json
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.dll
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\bin\Debug\netcoreapp3.1\MiniProject.pdb
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.AssemblyInfo.cs
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.dll
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.pdb
+C:\Users\user\Desktop\PUSH\MiniProject\MiniProject\obj\Debug\netcoreapp3.1\MiniProject.genruntimeconfig.cache

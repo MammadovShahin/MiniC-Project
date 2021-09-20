@@ -20,7 +20,7 @@ namespace MiniProject.Services
         {
             Department department = new Department(departmentName, workerLimit, salaryLimit);
 
-            foreach (Department item in _departments)
+            foreach (Department item in Departaments)
             {
                 if (item.DepartmentName == department.DepartmentName)
                 {
@@ -34,14 +34,17 @@ namespace MiniProject.Services
          
         public void AddEmployee(string fullname, PositionType position, int salary, Department departmentName)
         {
-            if (departmentName.Employees.Length > departmentName.WorkerLimit)
+            if (departmentName.Employees.Length < departmentName.WorkerLimit)
             {
                 if (departmentName.SalaryLimit < departmentName.CalcSum() + salary)
                 {
                     Console.WriteLine("Maas limitini asdiniz");
                 }
             }
-            Console.WriteLine("Isci limitini asdiniz. Isci elave etmek mumkun deyil");
+            else
+            {
+                Console.WriteLine("Isci limitini asdiniz. Isci elave etmek mumkun deyil");
+            }
             Employee employee = new Employee(fullname, position, salary, departmentName);
             departmentName.AddEmployee(employee);
         }
